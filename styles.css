@@ -1,0 +1,18 @@
+.jumbotron {
+  background-color: #926FCC
+}
+
+p {
+  border: 1px solid black;
+  padding: 10px;
+}
+
+li {
+  list-style-type: none;
+  border: 1px solid black;
+  padding: 50px;
+}
+
+ul {
+  padding: 0;
+}
