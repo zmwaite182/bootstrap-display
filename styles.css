@@ -16,3 +16,7 @@ li {
 ul {
   padding: 0;
 }
+
+.card-img-top {
+  height: 20rem;
+}
