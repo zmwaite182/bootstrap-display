@@ -10,13 +10,12 @@ p {
 li {
   list-style-type: none;
   border: 1px solid black;
-  padding: 50px;
 }
 
 ul {
   padding: 0;
 }
 
-.card-img-top {
-  height: 20rem;
+@media (prefers-reduced-motion: reduce) {
+
 }
